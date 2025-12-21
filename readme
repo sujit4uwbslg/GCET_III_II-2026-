@@ -1,1 +1,115 @@
+📁 Syllabus
+📁 Lecture Notes
+📁 Codes
+📁 Books
+📁 PPTs
+
+
+📁 Syllabus
+
+Official NLP syllabus for III–II B.Tech AIML
+
+Unit-wise topic breakdown
+
+Useful for exam preparation and course planning
+
+📁 Lecture Notes
+
+Detailed theory notes for each unit
+
+Easy-to-understand explanations
+
+Exam-oriented content (GATE / University exams friendly)
+
+📁 Codes
+
+Python implementations of NLP concepts
+
+Topics include:
+
+Text preprocessing
+
+Tokenization
+
+Morphology
+
+N-grams
+
+Language models
+
+Basic NLP pipelines
+
+Suitable for lab work and mini projects
+
+📁 Books
+
+Reference textbooks and study materials
+
+Standard NLP books for deeper understanding
+
+Useful for assignments, projects, and research
+
+📁 PPTs
+
+Lecture presentation slides
+
+Unit-wise PPTs for classroom learning
+
+Helpful for quick revision and presentations
+
+🎯 Course Objectives
+
+Understand the structure of language
+
+Learn morphology, syntax, and semantics
+
+Apply statistical and machine learning methods to text
+
+Build basic NLP applications
+
+Prepare for exams, labs, and projects
+
+🛠️ Tools & Technologies
+
+Python
+
+NLTK / spaCy (where applicable)
+
+Jupyter Notebook
+
+Google Colab (optional)
+
+👨‍🎓 Target Audience
+
+III–II B.Tech AIML students
+
+Students preparing for GATE / UGC NET
+
+Beginners in Natural Language Processing
+
+📌 How to Use This Repository
+
+Start with the Syllabus folder
+
+Study concepts using Lecture Notes & PPTs
+
+Practice using Codes
+
+Refer Books for deeper understanding
+
+📬 Maintained By
+
+Dr. Sujit Das
+Faculty – Artificial Intelligence & Machine Learning
+Subject: Natural Language Processing
+
+⭐ Support
+
+If you find this repository helpful:
+
+⭐ Star the repository
+
+🍴 Fork for personal use
+
+📢 Share with your classmates
 
